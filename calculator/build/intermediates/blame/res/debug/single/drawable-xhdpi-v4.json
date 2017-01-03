@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Java\\AndroidStudioProjects\\Calculator\\calculator\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\js.png",
+        "source": "E:\\Java\\AndroidStudioProjects\\Calculator\\calculator\\src\\main\\res\\drawable-xhdpi\\js.png"
+    },
+    {
+        "merged": "E:\\Java\\AndroidStudioProjects\\Calculator\\calculator\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title.png",
+        "source": "E:\\Java\\AndroidStudioProjects\\Calculator\\calculator\\src\\main\\res\\drawable-xhdpi\\title.png"
+    },
+    {
+        "merged": "E:\\Java\\AndroidStudioProjects\\Calculator\\calculator\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Java\\AndroidStudioProjects\\Calculator\\calculator\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
